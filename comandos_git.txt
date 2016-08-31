@@ -1,0 +1,17 @@
+branchs
+
+no git tem 3 estágios
+
+
+   DEV
+a remota		a local			o repositorio
+
+buscar as alteracoes antes de commitar (fazer update e merge (se necessário))
+
+
+git add "diretorio"  (adiciona os arquivos que deverão ser comitados)
+git commit -m "MENSAGEM" (faz o commit local com a mensagem enviada)
+git push origin "Branch" (faz o envio da branch atual local para a branch remota)
+git pull origin "branch" (faz o update dos projetos locais buscando no projeto remoto)
+
+
